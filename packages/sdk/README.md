@@ -1,17 +1,17 @@
-# @mxn2020/minions-bundles-knowledge-sdk
+# @minions-bundles-knowledge/sdk
 
 Knowledge management bundle — documents, concepts, citations
 
 ## Installation
 
 ```bash
-npm install @mxn2020/minions-bundles-knowledge-sdk minions-sdk
+npm install @minions-bundles-knowledge/sdk minions-sdk
 ```
 
 ## Usage
 
 ```typescript
-import { createMinion } from '@mxn2020/minions-bundles-knowledge-sdk';
+import { createMinion } from '@minions-bundles-knowledge/sdk';
 
 // TODO: Add your SDK's usage example here
 ```

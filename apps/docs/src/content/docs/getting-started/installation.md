@@ -6,7 +6,7 @@ description: "Install Minions Bundle: Knowledge packages"
 ## TypeScript / Node.js
 
 ```bash
-npm install @mxn2020/minions-bundles-knowledge-sdk minions-sdk
+npm install @minions-bundles-knowledge/sdk minions-sdk
 ```
 
 ## Python
@@ -18,7 +18,7 @@ pip install minions-bundles-knowledge
 ## CLI
 
 ```bash
-npm install -g @mxn2020/minions-bundles-knowledge-cli
+npm install -g @minions-bundles-knowledge/cli
 ```
 
 ## Requirements

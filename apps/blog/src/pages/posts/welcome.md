@@ -10,9 +10,9 @@ We're excited to introduce **Minions Bundle: Knowledge** — Knowledge managemen
 
 ## What's Included
 
-- **TypeScript SDK**: `npm install @mxn2020/minions-bundles-knowledge-sdk`
+- **TypeScript SDK**: `npm install @minions-bundles-knowledge/sdk`
 - **Python SDK**: `pip install minions-bundles-knowledge`
-- **CLI**: `npm install -g @mxn2020/minions-bundles-knowledge-cli`
+- **CLI**: `npm install -g @minions-bundles-knowledge/cli`
 
 ## Getting Started
 

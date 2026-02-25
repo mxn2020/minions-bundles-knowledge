@@ -18,7 +18,7 @@ import {
 } from 'minions-sdk';
 import type { Minion, StorageFilter } from 'minions-sdk';
 import { JsonFileStorageAdapter } from 'minions-sdk/node';
-import { bundleTypes as customTypes } from '@mxn2020/minions-bundles-knowledge-core';
+import { bundleTypes as customTypes } from '@mxn2020/minions-bundles-knowledge-sdk';
 
 const program = new Command();
 const STORE_DIR = process.env.MINIONS_STORE || '.minions';
@@ -61,7 +61,7 @@ program
         console.log(chalk.bold('Minions Bundle: Knowledge'));
         console.log(chalk.dim('Knowledge management bundle — documents, concepts, citations'));
         console.log('');
-        console.log(`  SDK:    ${chalk.cyan('@mxn2020/minions-bundles-knowledge-core')}`);
+        console.log(`  SDK:    ${chalk.cyan('@mxn2020/minions-bundles-knowledge-sdk')}`);
         console.log(`  CLI:    ${chalk.cyan('@mxn2020/minions-bundles-knowledge-cli')}`);
         console.log(`  Python: ${chalk.cyan('minions-bundles-knowledge')}`);
         console.log(`  Store:  ${chalk.cyan(STORE_DIR)}`);

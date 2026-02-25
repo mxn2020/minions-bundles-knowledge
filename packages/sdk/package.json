@@ -1,5 +1,5 @@
 {
-  "name": "@mxn2020/minions-bundles-knowledge-core",
+  "name": "@mxn2020/minions-bundles-knowledge-sdk",
   "version": "0.1.0",
   "description": "Knowledge management bundle — documents, concepts, citations",
   "type": "module",

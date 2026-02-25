@@ -1,7 +1,7 @@
 {
     "name": "minions-bundles-knowledge-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Knowledge management bundle — documents, concepts, citations",
     "type": "module",
     "license": "MIT",

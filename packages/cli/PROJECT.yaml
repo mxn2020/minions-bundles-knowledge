@@ -1,0 +1,8 @@
+name: "@minions-bundles-knowledge/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-bundles-knowledge-workspace
+description: "CLI for minions-bundles-knowledge — Knowledge management bundle — documents, concepts, citations"
+priority: high
+deploy_url: null
+tags: null

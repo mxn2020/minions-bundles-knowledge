@@ -2,7 +2,7 @@
   "name": "minions-bundles-knowledge-workspace",
   "private": true,
   "version": "0.1.1",
-  "description": "Knowledge management bundle \u2014 documents, concepts, citations",
+  "description": "Knowledge management bundle — documents, concepts, citations",
   "type": "module",
   "license": "MIT",
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
